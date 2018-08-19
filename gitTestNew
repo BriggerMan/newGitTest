@@ -1,0 +1,7 @@
+public class gitTestNew {
+  public static void main(String[] args) {
+
+    System.out.println("gitTestNew this is a print statement");
+
+  }
+}
